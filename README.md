@@ -11,13 +11,13 @@
 ### Setting di config.js
 ```Javascript
 global.owner = [
-    ['6281252848955'],
-    ['6285815700861'],
-    ['6281252848955', 'owner', true]
+    ['6285755515792'],
+    ['6285755516792'],
+    ['6285755516792', 'owner', true]
 ]
 
 global.mods = ['0']
-global.prems = ['6285815700861', '6281252848955']
+global.prems = ['6285815700861', '6285755516792']
 
 global.APIs = {
   alya: 'https://api.alyachan.pro'
@@ -30,8 +30,8 @@ global.APIKeys = {
 global.set = {
   link: 'https://chat.whatsapp.com/EIe1hJspvpj3pzXYckeHkh',
   thumbnail: 'https://i.ibb.co/gtr5L2k/Supermoon-2012.jpg',
-  wm: 'ᴍᴏᴏɴ ʙᴏᴛ ᴏɴʟɪɴᴇ',
-  footer: 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ ᴍᴏᴏɴ',
+  wm: 'xzen ʙᴏᴛ ᴏɴʟɪɴᴇ',
+  footer: 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ xzen',
   packname: 'Sticker By',
   author: '@naando.io'
 }
