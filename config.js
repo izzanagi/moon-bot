@@ -1,7 +1,7 @@
 // Owner
 global.owner = [
-  ['6281252848955', 'Owner', true],
-  ['6285815700861']
+  [6285755516792', 'Owner', true],
+  ['6285755516792']
 ]
 // Moderator
 global.mods = ['6281252848955']
@@ -17,10 +17,10 @@ global.APIKeys = {
 global.set = {
   link: 'https://chat.whatsapp.com/IaXnDzbbhNfBfTv0nN7bJI',
   thumbnail: 'https://telegra.ph/file/749c6b7544efeff028487.jpg',
-  wm: `© moon-bot v${require('./package.json').version}`,
+  wm: `© Xzen-Bot v${require('./package.json').version}`,
   footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ',
   packname: 'Sticker By',
-  author: 'moon-bot'
+  author: 'Xzen-Bot'
 }
 // Lain lain
 global.multiplier = 1000 // Semakin besar semakin sulit naik level
