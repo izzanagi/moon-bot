@@ -1,6 +1,6 @@
 // Owner
 global.owner = [
-  ['6281252848955', 'Owner', true],
+  ['6285755516792', 'Owner', true],
   ['6285815700861']
 ]
 // Moderator
@@ -15,12 +15,10 @@ global.APIKeys = {
 }
 // Option
 global.set = {
-  link: 'https://chat.whatsapp.com/IaXnDzbbhNfBfTv0nN7bJI',
-  thumbnail: 'https://telegra.ph/file/749c6b7544efeff028487.jpg',
-  wm: `© moon-bot v${require('./package.json').version}`,
+  wm: `© Xenzira-Bot v${require('./package.json').version}`,
   footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ',
-  packname: 'Sticker By',
-  author: 'moon-bot'
+  packname: 'Sticker By Xenzira-Bot',
+  author: 'Xenzira-bot'
 }
 // Lain lain
 global.multiplier = 1000 // Semakin besar semakin sulit naik level
@@ -44,8 +42,8 @@ global.status = {
   group: 'Perintah ini khusus Grup.',
   private: 'Perintah ini khusus chat pribadi.',
   register: 'Silahkan daftar terlebih dahulu untuk menggunakan perintah ini.',
-  game: 'Fitur game belum diaktifkan.',
-  rpg: 'Fitur RPG belum diaktifkan.'
+  game: 'Fitur game not activated.',
+  rpg: 'Fitur RPG not activated.'
 }
 // Emoticon RPG
 global.rpg = {
