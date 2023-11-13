@@ -11,28 +11,19 @@
 ### Setting di config.js
 ```Javascript
 global.owner = [
-    ['6281252848955'],
-    ['6285815700861'],
+    ['6285755516792'],
+    ['6285755125986'],
     ['6281252848955', 'owner', true]
 ]
 
 global.mods = ['0']
-global.prems = ['6285815700861', '6281252848955']
-
-global.APIs = {
-  alya: 'https://api.alyachan.pro'
-}
-
-global.APIKeys = {
-  'https://api.alychan.pro', 'YOURKEY'
-}
+global.prems = ['6285755516792', '6285755125986']
 
 global.set = {
-  link: 'https://chat.whatsapp.com/EIe1hJspvpj3pzXYckeHkh',
-  thumbnail: 'https://i.ibb.co/gtr5L2k/Supermoon-2012.jpg',
-  wm: 'ᴍᴏᴏɴ ʙᴏᴛ ᴏɴʟɪɴᴇ',
-  footer: 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ ᴍᴏᴏɴ',
-  packname: 'Sticker By',
+  link: 'Belum ada kak, hehe'
+  wm: ' Xenzira ʙᴏᴛ ᴏɴʟɪɴᴇ',
+  footer: 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ʙʏ Xenzira',
+  packname: 'Sticker By Xenzira-Bot',
   author: '@naando.io'
 }
 
@@ -63,15 +54,15 @@ let handler = async(m, {
 handler.help = ['command'] // anunya
 handler.tags = ['category'] // category nya
 handler.command = /^(command)$/i // command nya
-handler.group = Boolean // buat grup
-handler.limit = Boolean // pake limit
+handler.group = Boolean // Untuk Group
+handler.limit = Boolean // Menggunakan Limit
 handler.game = Boolean // fitur game
 handler.rpg = Boolean // fitur rpg
 handler.owner = Boolean // khusus owner
 handler.admin = Boolean // khusus admin
-handler.botAdmin = Boolean // bot harus jadi admin
-handler.premium = Boolean // khusus premium
-handler.private = Boolean // khusus chat pribadi
+handler.botAdmin = Boolean // bot harus menjadi admin!
+handler.premium = Boolean // khusus use premium!
+handler.private = Boolean // khusus chat pribadi!
 ```
 
 ### Instalasi & Run
